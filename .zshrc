@@ -1,4 +1,4 @@
-source ~/.oh-my-zsh/plugins/zsh-snap/znap.zsh
+source ~/.oh-my-zsh/custom/plugins/zsh-snap/znap.zsh
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
